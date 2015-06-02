@@ -1,4 +1,5 @@
-This is spelling checker and suggester program.
+A program that checks the spelling of words and generates suggestions for mispellings
+
 
 Contents:
     src/
