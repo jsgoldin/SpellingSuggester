@@ -5,7 +5,7 @@ public class Driver {
 	
 	public static void main(String[] args)
 	{
-		Dictionary d = new Dictionary("words_ospd.txt");
+		Dictionary d = new Dictionary();
 		
 		System.out.println("Welcome to my spell checker and suggester!");
 		System.out.println("Test it out by inputting words below, to quit submit an empty string");
